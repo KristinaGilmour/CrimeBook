@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 nltk == 3.7
-sklearn
+scikit-learn
 re
 pickle
 scipy.io
