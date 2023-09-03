@@ -3,6 +3,5 @@ pandas
 numpy
 nltk == 3.7
 scikit-learn
-re
 pickle
 scipy.io
