@@ -2,9 +2,6 @@ streamlit
 pandas
 numpy
 nltk == 3.7
-nltk.stem == 3.7
-nltk.corpus == 3.7
-nltk.tokenize == 3.7
 sklearn
 re
 pickle
