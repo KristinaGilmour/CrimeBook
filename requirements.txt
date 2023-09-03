@@ -1,6 +1,6 @@
 pandas
 numpy
-nltk.
+nltk
 nltk.stem
 nltk.corpus
 nltk.tokenize
