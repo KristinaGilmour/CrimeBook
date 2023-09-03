@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk.
+nltk.stem
+nltk.corpus
+nltk.tokenize
+sklearn
+re
+pickle
+scipy.io
