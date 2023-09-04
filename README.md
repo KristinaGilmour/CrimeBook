@@ -1,6 +1,6 @@
 # CrimeBook
 
-[CrimeBook]([https://link-url-here.org](https://crimebook.streamlit.app/)) is a book recommender focused on recommending crime, thriller and mystery book series based on the user input.  Each recommendation includes the name of the series, brief description of the series, number of books in the series and a link to the GoodReads page which contains a list of the books in the series in the correct reading order.
+[CrimeBook](https://crimebook.streamlit.app/) is a book recommender focused on recommending crime, thriller and mystery book series based on the user input.  Each recommendation includes the name of the series, brief description of the series, number of books in the series and a link to the GoodReads page which contains a list of the books in the series in the correct reading order.
 
 ## Instructions:
 1. Click into the text input box below the "I feel like reading:" and type in description of what you are looking for. Hit enter.
